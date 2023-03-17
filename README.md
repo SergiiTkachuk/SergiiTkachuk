@@ -8,6 +8,7 @@ I'm a student of the National Technical University of Ukraine "Kyiv Polytechnic 
 * C
 * Kotlin
 * Git
+* SQL
 
 ## My Projects
 Here are a few projects I've worked on:
