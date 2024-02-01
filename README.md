@@ -1,4 +1,4 @@
-My goal is to become a proficient web developer with a strong understanding of the latest web technologies.
+### My goal is to become a proficient web developer with a strong understanding of the latest web technologies.
 
 ## My Skills
 * HTML5
