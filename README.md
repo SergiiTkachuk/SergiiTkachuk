@@ -1,4 +1,4 @@
-I'm a student of the National Technical University of Ukraine "Kyiv Polytechnic Institute" (NTUU "KPI"), majoring in Software Engineering. My goal is to become a proficient web developer with a strong understanding of the latest web technologies.
+My goal is to become a proficient web developer with a strong understanding of the latest web technologies.
 
 ## My Skills
 * HTML5
